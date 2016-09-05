@@ -16,4 +16,4 @@ Where each value is populated based on a Spotify App you have to create. Make su
 
 You will also need a redis server running on your system. The default server configuration should work.
 
-Finally, run `npm install & npm start` and the server should launch and be visible at `localhost:3000` with a simple login page which will attempt to authenticate a user with Spotify.
+Finally, run `npm install && npm start` and the server should launch and be visible at `localhost:3000` with a simple login page which will attempt to authenticate a user with Spotify.
